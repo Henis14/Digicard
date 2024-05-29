@@ -1,0 +1,10 @@
+<img src="images/Partner/au.png" alt="au" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/sbi.png" alt="sbi" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/hdfc.png" alt="hdfc" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/scb.jpg" alt="scb" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/indus.jpg" alt="indus" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/icici.png" alt="icici" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/citi.png" alt="citi" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/idfc.png" alt="idfc" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/kotak.png" alt="kotak" style="height: 245px; width: 290px; border:1px solid black;">
+    <img src="images/Partner/axis.png" alt="axis " style="height: 245px; width: 290px;border:1px solid black; ">

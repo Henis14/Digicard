@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-scroll-container {
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .image-scroll-container img {
+            display: inline-block;
+            margin-right: 10px; /* Adjust the spacing between images */
+            animation: scrollImages 10s linear infinite; /* Adjust the duration as needed */
+        }
+
+        @keyframes scrollImages {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="image-scroll-container">
+    <img src="images/002.png" alt="002">
+    <img src="images/admin.png" alt="admin">
+    <img src="images/001.png" alt="001">
+    <!-- Add more images as needed -->
+</div>
+
+</body>
+</html>

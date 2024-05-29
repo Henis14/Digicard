@@ -1,0 +1,598 @@
+    <table class="w-full whitespace-no-wrap">
+                  <thead>
+                    <tr
+                      class="text-xs font-semibold tracking-wide text-left text-gray-500 uppercase border-b dark:border-gray-700 bg-gray-50 dark:text-gray-400 dark:bg-gray-800"
+                    >
+                    <th class="px-4 py-3">Product</th>
+                    <th class="px-4 py-3">Product Name</th>
+                    <th class="px-4 py-3">Product-ID</th>
+                    <th class="px-4 py-3">Product Desc</th>
+                    </tr>
+                  </thead>
+                  <tbody
+                    class="bg-white divide-y dark:divide-gray-700 dark:bg-gray-800"
+                  >
+                    <tr class="text-gray-700 dark:text-gray-400">
+                      <td class="px-4 py-3">
+                        <div class="flex items-center text-sm">
+                          <!-- FIRST PRODUCT KOTAK -->
+                          <div class="relative hidden w-16 h-12 mr-3  md:block">
+                            <img class="object-cover w-full h-full" src="allproducts/1011.png" alt=""/> 
+                            <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                          </div>
+                        </div>    
+                      </td>
+                      <td class="px-5 py-4 text-sm">Royale</td>      
+                      <td class="px-5 py-4 text-xs">
+                        <span>10111011
+                        </span>      
+                      </td>
+                      <td class="px-3 py-2 text-sm">
+                        KOTAK ROYALE CARD
+                      </td>
+                    </tr> 
+                    <tr class="text-gray-700 dark:text-gray-400">
+                      <td class="px-4 py-3">
+                        <div class="flex items-center text-sm">
+                            
+                         <!-- FIRST PRODUCT KOTAK -->
+                         <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                          <img class="object-cover w-full h-full" src="allproducts/8012.png" alt=""/> 
+                          <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                        </div>
+                      </div>    
+                    </td>
+                    <td class="px-5 py-4 text-sm"> VETTA</td>      
+                    <td class="px-5 py-4 text-xs">
+                      <span>80128012</span>      
+                    </td>
+                    <td class="px-3 py-2 text-sm">
+                      AU VETTA CARD 
+                    </td>
+                  </tr> 
+                  <tr class="text-gray-700 dark:text-gray-400">
+                    <td class="px-4 py-3">
+                      <div class="flex items-center text-sm">   -->
+                        
+                        <!-- FIRST PRODUCT KOTAK -->
+                        <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                          <img class="object-cover w-full h-full" src="allproducts/8013.png" alt=""/> 
+                          <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                        </div>
+                      </div>    
+                    </td>
+                    <td class="px-5 py-4 text-sm"> ALTURA</td>      
+                    <td class="px-5 py-4 text-xs">
+                      <span>80138013</span>      
+                    </td>
+                    <td class="px-3 py-2 text-sm">
+                      AU ALTURA CARD 
+                    </td>
+                  </tr> 
+                  <tr class="text-gray-700 dark:text-gray-400">
+                    <td class="px-4 py-3">
+                      <div class="flex items-center text-sm"> -->
+                          
+                       <!-- FIRST PRODUCT KOTAK -->
+                       <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                        <img class="object-cover w-full h-full" src="allproducts/8014.png" alt=""/> 
+                        <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                      </div>
+                    </div>    
+                  </td>
+                  <td class="px-5 py-4 text-sm"> LIT</td>      
+                  <td class="px-5 py-4 text-xs">
+                    <span>80148014</span>      
+                  </td>
+                  <td class="px-3 py-2 text-sm">
+                    AU LIT CARD 
+                  </td>
+                </tr> 
+                <tr class="text-gray-700 dark:text-gray-400">
+                  <td class="px-4 py-3">
+                    <div class="flex items-center text-sm"> -->
+
+                      <!-- FIRST PRODUCT KOTAK -->
+                      <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                        <img class="object-cover w-full h-full" src="allproducts/8015.png" alt=""/> 
+                        <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                      </div>
+                    </div>    
+                  </td>
+                  <td class="px-5 py-4 text-sm"> ALTURA PLATINUM</td>      
+                  <td class="px-5 py-4 text-xs">
+                    <span>80158015</span>      
+                  </td>
+                  <td class="px-3 py-2 text-sm">
+                    AU ALTURA PLATINUM <br>CARD<br>
+                  </td>
+                </tr> 
+                <tr class="text-gray-700 dark:text-gray-400">
+                  <td class="px-4 py-3">
+                    <div class="flex items-center text-sm"> -->
+                        
+                     <!-- FIRST PRODUCT KOTAK -->
+                     <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                      <img class="object-cover w-full h-full" src="allproducts/9011.png" alt=""/> 
+                      <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                    </div>
+                  </div>    
+                </td>
+                <td class="px-5 py-4 text-sm"> INDIAN OIL</td>      
+                <td class="px-5 py-4 text-xs">
+                  <span>90119011/span>      
+                </td>
+                <td class="px-3 py-2 text-sm">
+                  AXIS BANK INDIAN OIL <br>CARD<br>
+                </td>
+              </tr> 
+              <tr class="text-gray-700 dark:text-gray-400">
+                <td class="px-4 py-3">
+                  <div class="flex items-center text-sm"> -->
+
+                    <!-- FIRST PRODUCT KOTAK -->
+                    <div class="relative hidden w-16 h-12 mr-3  md:block">
+                      <img class="object-cover w-full h-full" src="allproducts/2011.png" alt=""/> 
+                      <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                    </div>
+                  </div>    
+                </td>
+                <td class="px-5 py-4 text-sm">Platinum</td>      
+                <td class="px-5 py-4 text-xs">
+                  <span>20112011</span>      
+                </td>
+                <td class="px-3 py-2 text-sm">
+                ICICI PLATINUM <br>CARD<br> 
+                </td>
+              </tr> 
+              <tr class="text-gray-700 dark:text-gray-400">
+                <td class="px-4 py-3">
+                  <div class="flex items-center text-sm">
+                      
+                   <!-- FIRST PRODUCT KOTAK -->
+                   <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                    <img class="object-cover w-full h-full" src="allproducts/9013.png" alt=""/> 
+                    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                  </div>
+                </div>    
+              </td>
+              <td class="px-5 py-4 text-sm"> VISTARA</td>      
+              <td class="px-5 py-4 text-xs">
+                <span>90139013</span>      
+              </td>
+              <td class="px-3 py-2 text-sm">
+                AXIS BANK VISTARA <br>CARD<br>
+              </td>
+            </tr> 
+            <tr class="text-gray-700 dark:text-gray-400">
+              <td class="px-4 py-3">
+                <div class="flex items-center text-sm"> -->
+
+                  <!-- FIRST PRODUCT KOTAK -->
+                  <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                    <img class="object-cover w-full h-full" src="allproducts/9014.png" alt=""/> 
+                    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                  </div>
+                </div>    
+              </td>
+              <td class="px-5 py-4 text-sm">VISTARAS</td>      
+              <td class="px-5 py-4 text-xs">
+                <span>90149014</span>      
+              </td>
+              <td class="px-3 py-2 text-sm">
+                AXIS BANK VISTARAS <br>CARD<br>
+              </td>
+            </tr> 
+            <tr class="text-gray-700 dark:text-gray-400">
+              <td class="px-4 py-3">
+                <div class="flex items-center text-sm"> -->
+                    
+                 <!-- FIRST PRODUCT KOTAK -->
+                 <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                  <img class="object-cover w-full h-full" src="allproducts/9015.png" alt=""/> 
+                  <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                </div>
+              </div>    
+            </td>
+            <td class="px-5 py-4 text-sm"> SPICEJET</td>      
+            <td class="px-5 py-4 text-xs">
+              <span>90159015</span>      
+            </td>
+            <td class="px-3 py-2 text-sm">
+              AXIS BANK SPICEJET<br>CARD<br>
+            </td>
+          </tr> 
+          <tr class="text-gray-700 dark:text-gray-400">
+            <td class="px-4 py-3">
+              <div class="flex items-center text-sm"> -->
+
+                <!-- FIRST PRODUCT KOTAK -->
+                <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                  <img class="object-cover w-full h-full" src="allproducts/9016.png" alt=""/> 
+                  <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+                </div>
+              </div>    
+            </td>
+            <td class="px-5 py-4 text-sm"> NEO </td>      
+            <td class="px-5 py-4 text-xs">
+              <span>90169016</span>      
+            </td>
+            <td class="px-3 py-2 text-sm">
+              AXIS BANK NEO <br>CARD<br>
+            </td>
+          </tr> 
+          <tr class="text-gray-700 dark:text-gray-400">
+            <td class="px-4 py-3">
+              <div class="flex items-center text-sm"> -->
+                  
+               <!-- FIRST PRODUCT KOTAK -->
+               <div class="relative hidden w-16 h-12 mr-3  md:block">
+                <img class="object-cover w-full h-full" src="allproducts/3011.png" alt=""/> 
+                <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+              </div>
+            </div>    
+          </td>
+          <td class="px-5 py-4 text-sm">EASY MY TRIP</td>      
+          <td class="px-5 py-4 text-xs">
+            <span>30113011</span>      
+          </td>
+          <td class="px-3 py-2 text-sm">
+          SCB EASY TRIP<br>CARD<br>
+          </td>
+        </tr> 
+        <tr class="text-gray-700 dark:text-gray-400">
+          <td class="px-4 py-3">
+            <div class="flex items-center text-sm">
+
+              <!-- FIRST PRODUCT KOTAK -->
+              <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+                <img class="object-cover w-full h-full" src="allproducts/6012.png" alt=""/> 
+                <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+              </div>
+            </div>    
+          </td>
+          <td class="px-5 py-4 text-sm"> REWARDS</td>      
+          <td class="px-5 py-4 text-xs">
+            <span>60126012</span>      
+          </td>
+          <td class="px-3 py-2 text-sm">
+            CITI BANK REWARDS <br>CARD<br>
+          </td>
+        </tr> 
+        <tr class="text-gray-700 dark:text-gray-400">
+          <td class="px-4 py-3">
+            <div class="flex items-center text-sm"> -->
+                
+             <!-- FIRST PRODUCT KOTAK -->
+             <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+              <img class="object-cover w-full h-full" src="allproducts/6013.png" alt=""/> 
+              <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+            </div>
+          </div>    
+        </td>
+        <td class="px-5 py-4 text-sm">PREMIERMILES</td>      
+        <td class="px-5 py-4 text-xs">
+          <span>60136013</span>      
+        </td>
+        <td class="px-3 py-2 text-sm">
+          CITI BANK PREMIERMILES <br>CARD<br>
+        </td>
+      </tr> 
+      <tr class="text-gray-700 dark:text-gray-400">
+        <td class="px-4 py-3">
+          <div class="flex items-center text-sm"> -->
+
+            <!-- FIRST PRODUCT KOTAK -->
+            <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+              <img class="object-cover w-full h-full" src="allproducts/6014.png" alt=""/> 
+              <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+            </div>
+          </div>    
+        </td>
+        <td class="px-5 py-4 text-sm">CASHBACK</td>      
+        <td class="px-5 py-4 text-xs">
+          <span>60146014</span>      
+        </td>
+        <td class="px-3 py-2 text-sm">
+          CITI BANK CASHBACK<br>CARD<br>
+        </td>
+      </tr> 
+      <tr class="text-gray-700 dark:text-gray-400">
+        <td class="px-4 py-3">
+          <div class="flex items-center text-sm"> -->
+              
+           <!-- FIRST PRODUCT KOTAK -->
+           <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+            <img class="object-cover w-full h-full" src="allproducts/6015.png" alt=""/> 
+            <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+          </div>
+        </div>    
+      </td>
+      <td class="px-5 py-4 text-sm">SHOPPERS STOP</td>      
+      <td class="px-5 py-4 text-xs">
+        <span>60156015</span>      
+      </td>
+      <td class="px-3 py-2 text-sm">
+        CITI BANK SHOPPERS STOP<br>CARD<br>
+      </td>
+    </tr> 
+    <tr class="text-gray-700 dark:text-gray-400">
+      <td class="px-4 py-3">
+        <div class="flex items-center text-sm"> -->
+
+          <!-- FIRST PRODUCT KOTAK -->
+          <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+            <img class="object-cover w-full h-full" src="allproducts/6016.png" alt=""/> 
+            <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+          </div>
+        </div>    
+      </td>
+      <td class="px-5 py-4 text-sm">PRESTIGE</td>      
+      <td class="px-5 py-4 text-xs">
+        <span>60166016</span>      
+      </td>
+      <td class="px-3 py-2 text-sm">
+        CITI BANK PRESTIGE<br>CARD<br>
+      </td>
+    </tr> 
+    <tr class="text-gray-700 dark:text-gray-400">
+      <td class="px-4 py-3">
+        <div class="flex items-center text-sm"> -->
+            
+         <!-- FIRST PRODUCT KOTAK -->
+         <div class="relative hidden w-16 h-12 mr-3  md:block">
+          <img class="object-cover w-full h-full" src="allproducts/4011.png" alt=""/> 
+          <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+        </div>
+      </div>    
+    </td>
+    <td class="px-5 py-4 text-sm">ELITE</td>      
+    <td class="px-5 py-4 text-xs">
+      <span>40114011</span>      
+    </td>
+    <td class="px-3 py-2 text-sm">
+      SCB ELITE CARD
+    </td>
+  </tr> 
+  <tr class="text-gray-700 dark:text-gray-400">
+    <td class="px-4 py-3">
+      <div class="flex items-center text-sm">
+
+        <!-- FIRST PRODUCT KOTAK -->
+        <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+          <img class="object-cover w-full h-full" src="allproducts/5012.png" alt=""/> 
+          <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+        </div>
+      </div>    
+    </td>
+    <td class="px-5 py-4 text-sm"> REGILIA</td>      
+    <td class="px-5 py-4 text-xs">
+      <span>50125012</span>      
+    </td>
+    <td class="px-3 py-2 text-sm">
+      HDFC REGILIA<br>CARD<br>
+    </td>
+  </tr> 
+  <tr class="text-gray-700 dark:text-gray-400">
+    <td class="px-4 py-3">
+      <div class="flex items-center text-sm"> -->
+          
+       <!-- FIRST PRODUCT KOTAK -->
+       <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+        <img class="object-cover w-full h-full" src="allproducts/5013.png" alt=""/> 
+        <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+      </div>
+    </div>    
+  </td>
+  <td class="px-5 py-4 text-sm">TIMESCblueIT</td>      
+  <td class="px-5 py-4 text-xs">
+    <span>50135013</span>      
+  </td>
+  <td class="px-3 py-2 text-sm">
+    HDFC BANK TIMESCblueIT <br>PLATINUM CARD<br>
+  </td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+  <td class="px-4 py-3">
+    <div class="flex items-center text-sm"> -->
+
+      <!-- FIRST PRODUCT KOTAK -->
+      <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+        <img class="object-cover w-full h-full" src="allproducts/5014.png" alt=""/> 
+        <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+      </div>
+    </div>    
+  </td>
+  <td class="px-5 py-4 text-sm">DINNERSCLUB</td>      
+  <td class="px-5 py-4 text-xs">
+    <span>50145014</span>      
+  </td>
+  <td class="px-3 py-2 text-sm">
+    HDFC DINNERSCLUB<br>CARD<br>
+  </td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+  <td class="px-4 py-3">
+    <div class="flex items-center text-sm"> -->
+        
+     <!-- FIRST PRODUCT KOTAK -->
+     <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+      <img class="object-cover w-full h-full" src="allproducts/5015.png" alt=""/> 
+      <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+    </div>
+  </div>    
+</td>
+<td class="px-5 py-4 text-sm">INDIANOIL</td>      
+<td class="px-5 py-4 text-xs">
+  <span>50155015</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  HDFC INDIANOIL <br>PLATINUM CARD<br>
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+  <div class="flex items-center text-sm"> -->
+
+    <!-- FIRST PRODUCT KOTAK -->
+    <!-- <div class="relative hidden w-16 h-12 mr-3  md:block">
+      <img class="object-cover w-full h-full" src="allproducts/5016.png" alt=""/> 
+      <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+    </div>
+  </div>    
+</td>
+<td class="px-5 py-4 text-sm">SHOPPERS STOP</td>      
+<td class="px-5 py-4 text-xs">
+  <span>50165016</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  HDFC SHOPPERS STOP<br>CARD<br>
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+  <div class="flex items-center text-sm"> -->
+      
+   <!-- FIRST PRODUCT KOTAK -->
+   <div class="relative hidden w-16 h-12 mr-3  md:block">
+    <img class="object-cover w-full h-full" src="allproducts/5011.png" alt=""/> 
+    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+  </div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">MONEYBACK</td>      
+<td class="px-5 py-4 text-xs">
+<span>50115011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  HDFC MONEYBACK
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+
+  <!-- FIRST PRODUCT KOTAK -->
+  <div class="relative hidden w-16 h-12 mr-3  md:block">
+    <img class="object-cover w-full h-full" src="allproducts/6011.png" alt=""/> 
+    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+  </div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">INDIAN OIL</td>      
+<td class="px-5 py-4 text-xs">
+<span>60116011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  CITI INDIAN OIL CARD
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+    
+ <!-- FIRST PRODUCT KOTAK -->
+ <div class="relative hidden w-16 h-12 mr-3  md:block">
+  <img class="object-cover w-full h-full" src="allproducts/7011.png" alt=""/> 
+  <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+</div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">EASY DINER</td>      
+<td class="px-5 py-4 text-xs">
+<span>70117011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  INDUS EASY DINER
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+
+  <!-- FIRST PRODUCT KOTAK -->
+  <div class="relative hidden w-16 h-12 mr-3  md:block">
+    <img class="object-cover w-full h-full" src="allproducts/8011.png" alt=""/> 
+    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+  </div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">ZENITH</td>      
+<td class="px-5 py-4 text-xs">
+<span>80118011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+AU ZENITH CARD
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+    
+ <!-- FIRST PRODUCT KOTAK -->
+ <div class="relative hidden w-16 h-12 mr-3  md:block">
+  <img class="object-cover w-full h-full" src="allproducts/9011.png" alt=""/> 
+  <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+</div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">INDIAN OIL</td>      
+<td class="px-5 py-4 text-xs">
+<span>90119011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  AXIS INDIAN OIL CARD 
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+
+  <!-- FIRST PRODUCT KOTAK -->
+  <div class="relative hidden w-16 h-12 mr-3  md:block">
+    <img class="object-cover w-full h-full" src="allproducts/1111.png" alt=""/> 
+    <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+  </div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">EAZYDINNER</td>      
+<td class="px-5 py-4 text-xs">
+<span>70117011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  INDUS BANK EAZYDINNER<br>CARD<br>
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+    
+ <!-- FIRST PRODUCT KOTAK -->
+ <div class="relative hidden w-16 h-12 mr-3  md:block">
+  <img class="object-cover w-full h-full" src="allproducts/1011.png" alt=""/> 
+  <div class="absolute inset-0  shadow-inner" aria-hidden="true"></div>
+</div>
+</div>    
+</td>
+<td class="px-5 py-4 text-sm">MILLIENNIA</td>      
+<td class="px-5 py-4 text-xs">
+<span>10111011</span>      
+</td>
+<td class="px-3 py-2 text-sm">
+  AU MILLIENNIA CARD
+</td>
+</tr> 
+<tr class="text-gray-700 dark:text-gray-400">
+<td class="px-4 py-3">
+<div class="flex items-center text-sm">
+                              
+</tbody>
+</table>
+</div>                           
+<div
+class="grid px-4 py-3 text-xs font-semibold tracking-wide text-gray-500 uppercase border-t dark:border-gray-700 bg-gray-50 sm:grid-cols-9 dark:text-gray-400 dark:bg-gray-800"
+>
+<span class="flex items-center col-span-3">
+  Showing 60 of 60
+</span>
+<span class="col-span-2"></span>
